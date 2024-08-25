@@ -7,7 +7,7 @@ This script monitors various system resources and presents them in a dashboard f
 ```bash
 ./monitor_system.sh [option]
 
-Options:
+## Options:
 
 -cpu - Displays top 10 applications by CPU and memory usage.
 

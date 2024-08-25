@@ -10,7 +10,7 @@ This script automates security audits and server hardening for Linux servers.
 bash
 ./security_audit.sh [option]
 
-Options:
+## Options:
 
 -user - Audits users and groups.
 
